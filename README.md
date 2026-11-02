@@ -3,7 +3,7 @@ memento repo for https://violetproject.net
 
 static/mementos is where memento json files go
 format is as such 
-
+<pre>
 {
     "name": "example badge",
     "desc": "this is the description",
@@ -30,5 +30,5 @@ format is as such
     "val": "on (on or off switch)"
     }},
 }
-
+</pre>
 art is put in static/img/mementos with the filename the same as the "name" field, e.g example badge.png example badge.gif
