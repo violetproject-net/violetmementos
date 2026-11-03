@@ -32,3 +32,6 @@ format is as such
 }
 </pre>
 art is put in static/img/mementos with the filename the same as the "name" field, e.g example badge.png example badge.gif
+
+adding more todo
+we need translation capability aswell
