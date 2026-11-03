@@ -1,7 +1,7 @@
 # violetmementos
 memento repo for https://violetproject.net
 
-static/mementos is where memento json files go
+static/mementos is where memento json files go 
 format is as such 
 <pre>
 {
