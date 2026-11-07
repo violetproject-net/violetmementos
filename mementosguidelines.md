@@ -40,6 +40,7 @@ Mementos may not be accepted or may be removed if...
 - The art is disrespectful.
 - The art does not take serious topics seriously.
 - The badge handlers decide so for other reasons that may come up.
+- The game is confirmed to be leaving the site. i.e Collective Unconscious badges.
 
 Please feel free to give feedback if you think a decision made is unfair.
 
