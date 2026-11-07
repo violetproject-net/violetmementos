@@ -1,0 +1,16 @@
+{
+  "name": "Prismatic Dream",
+  "desc": "It helps light up your life.",
+  "cond": "Obtain the Rainbow Cloud Trinket.",
+  "art": "HenryAutumn",
+  "anim": "y",
+  "game": "blackrain",
+  "reqTrigger": "1",
+  "t1": {
+    "map": "24",
+    "switch1": {
+   "id": "320",
+   "val": "on"
+  }
+}
+}
