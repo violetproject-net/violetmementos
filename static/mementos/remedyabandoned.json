@@ -1,0 +1,12 @@
+{
+"name": "Facing The Sun",
+"desc": "I don't think the meds sat well with my stomach..."
+"cond": "Visit the abandoned sunflower field by taking the magenta medicine."
+"art": "thatoneartistdude",
+"anim": "n",
+"game": "remedy",
+"reqTrigger": "1",
+"t1": {
+  "map": "5"
+}
+}
