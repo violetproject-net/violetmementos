@@ -24,8 +24,8 @@ All Pixel formats can be animated using GIF format. Other dimension templates ar
 Dimensions for mementos are...
 - Basic Pixel - 37x37
 - Medium Pixel - 74x74
+- VM Pixel - 96x96
 - Large Pixel - 111x111
-- 
 - Wallpaper - 320x240
 - Portrait - 360x640
 - Landscape - 640x360
