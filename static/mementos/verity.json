@@ -1,0 +1,12 @@
+{
+    "name": "Verity",
+    "desc": "Hey, It's me.",
+    "cond": "It's Verity.",
+    "art": "violetsitas",
+    "anim": "n",
+    "game": "blackrain",
+    "reqtrigger": "1",
+    "t1": {  
+    "map": "67",
+    },
+}
