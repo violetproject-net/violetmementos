@@ -18,7 +18,17 @@ Mementos can currently be created for the following.
 
 And any combination of the above (as multiple conditions (separate) or as one combined (i.e within coords with a certain var number together), or both)
 
-Dimensions for mementos are typically 37x37 pixel art, but it is not a requirement. Art is displayed with image-rendering: pixelated; styling, so non pixel art may look different than expected on the site. 
+All static memento images use PNG format.
+All Pixel formats can be animated using GIF format. Other dimension templates are unable to be animated.
+
+Dimensions for mementos are...
+- Basic Pixel - 37x37
+- Medium Pixel - 74x74
+- Large Pixel - 111x111
+- 
+- Wallpaper - 320x240
+- Portrait - 360x640
+- Landscape - 640x360
 
 Mementos must have some sort of representation of the condition they are for. Entirely unrelated art will not be accepted. Correlation with the condition is up to memento handlers discretion, but we welcome feedback with open arms.
 
