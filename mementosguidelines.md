@@ -29,6 +29,8 @@ Dimensions for mementos are...
 - Wallpaper - 320x240
 - Portrait - 360x640
 - Landscape - 640x360
+- 
+![Template](mementostemplate.png)
 
 Mementos must have some sort of representation of the condition they are for. Entirely unrelated art will not be accepted. Correlation with the condition is up to memento handlers discretion, but we welcome feedback with open arms.
 
