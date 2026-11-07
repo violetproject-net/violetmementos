@@ -7,9 +7,6 @@
   "game": "blackrain",
   "reqTrigger": "1",
   "t1": {
-    "map": "245"
-  },
-  "t2": {
     "map": "245",
     "switch1": {
     "id": "306",
