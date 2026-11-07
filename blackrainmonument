@@ -1,0 +1,18 @@
+{
+  "name": "Chiseled Sizuku",
+  "desc": "A work of art, truly breathtaking…",
+  "cond": "Obtain the Monument Trinket, if you already have it, return to where you can get it in Stone Pivot",
+  "art": "thatoneartistdude",
+  "anim": "n",
+  "game": "blackrain",
+  "reqTrigger": "1",
+  "t1": {
+    "map": "245"
+  }
+  "t2": {
+    "map": "245"
+    "switch1": {
+    "id": "306",
+    "val": "on"
+  }
+}
