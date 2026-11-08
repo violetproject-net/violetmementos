@@ -5,8 +5,8 @@
   "art": "thatoneartistdude",
   "anim": "n",
   "game": "remedy",
-  "reqTrigger": "1",
+  "reqtrigger": 1,
   "t1": {
-    "map": "5"
+    "map": 5
   }
 }

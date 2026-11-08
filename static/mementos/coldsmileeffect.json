@@ -5,13 +5,12 @@
   "art": "elliotzZz",
   "anim": "n",
   "game": "cold",
-  "reqTrigger": "1",
+  "reqtrigger": 1,
   "t1": {
-     "map": "12",
-     "switch1": {
-       "id": "262",
-       "val": "on"
-     }
+    "map": 12,
+    "switch1": {
+      "id": 262,
+      "val": "on"
+    }
   }
 }
-

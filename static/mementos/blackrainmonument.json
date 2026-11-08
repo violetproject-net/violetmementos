@@ -5,12 +5,12 @@
   "art": "thatoneartistdude",
   "anim": "n",
   "game": "blackrain",
-  "reqTrigger": "1",
+  "reqtrigger": 1,
   "t1": {
-    "map": "245",
+    "map": 245,
     "switch1": {
-    "id": "306",
-    "val": "on"
+      "id": 306,
+      "val": "on"
+    }
   }
-}
 }

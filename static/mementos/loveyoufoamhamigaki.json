@@ -5,13 +5,12 @@
   "art": "elliotzZz",
   "anim": "y",
   "game": "loveyou",
-  "reqTrigger": "1",
+  "reqtrigger": 1,
   "t1": {
-    "map": "5",
-    "x1": "82",
-    "y1": "6",
-    "x2": "103",
-    "y2": "11"
+    "map": 5,
+    "x1": 82,
+    "x2": 103,
+    "y1": 6,
+    "y2": 11
   }
 }
-

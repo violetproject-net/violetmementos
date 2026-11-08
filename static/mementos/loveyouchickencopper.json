@@ -5,10 +5,9 @@
   "art": "HenryAutumn",
   "anim": "n",
   "game": "loveyou",
-  "reqTrigger": "1",
+  "reqtrigger": 1,
   "t1": {
-    "map": "19",
-    "evinteract": "3"
+    "map": 19,
+    "evinteract": 3
   }
 }
-

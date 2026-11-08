@@ -5,12 +5,12 @@
   "art": "HenryAutumn",
   "anim": "y",
   "game": "blackrain",
-  "reqTrigger": "1",
+  "reqtrigger": 1,
   "t1": {
-    "map": "24",
+    "map": 24,
     "switch1": {
-   "id": "320",
-   "val": "on"
+      "id": 320,
+      "val": "on"
+    }
   }
-}
 }

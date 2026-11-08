@@ -5,17 +5,19 @@
   "art": "HenryAutumn",
   "anim": "y",
   "game": "loveyou",
-  "reqTrigger": "1",
+  "reqtrigger": 2,
   "t1": {
-     "map": "76",
-     "switch1": {
-       "id": "144",
-       "val": "on"
-     },
-     "switch2": {
-       "id": "146",
-       "val": "on"
-     }
+    "map": 76,
+    "switch1": {
+      "id": 144,
+      "val": "on"
+    }
+  },
+  "t2": {
+    "map": 76,
+    "switch1": {
+      "id": 146,
+      "val": "on"
+    }
   }
 }
-

@@ -5,9 +5,8 @@
   "art": "HenryAutumn",
   "anim": "y",
   "game": "loveyou",
-  "reqTrigger": "1",
+  "reqtrigger": 1,
   "t1": {
-    "map": "86"
+    "map": 86
   }
 }
-

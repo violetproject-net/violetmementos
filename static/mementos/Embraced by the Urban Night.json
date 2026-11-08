@@ -1,7 +1,7 @@
 {
   "name": "Embraced by the Urban Night",
   "desc": "Azure Night Sky, Vibrant City Lights.",
-  "cond": " Visit Urban Cityscape",
+  "cond": "Visit Urban Cityscape",
   "art": "Kantyo",
   "anim": "n",
   "game": "yumetsushin",

@@ -1,13 +1,12 @@
 {
   "name": "ly_construct",
   "desc": "Yo hop on Aitsuki's Mod.",
-  "cond": " Visit Sunset Skyscrapers.",
+  "cond": "Visit Sunset Skyscrapers.",
   "art": "HenryAutumn",
   "anim": "y",
   "game": "loveyou",
-  "reqTrigger": "1",
+  "reqtrigger": 1,
   "t1": {
-    "map": "21"
+    "map": 21
   }
 }
-

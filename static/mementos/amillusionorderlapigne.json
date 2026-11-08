@@ -5,9 +5,8 @@
   "art": "dawnchorrus",
   "anim": "n",
   "game": "amillusion",
-  "reqTrigger": "1",
+  "reqtrigger": 1,
   "t1": {
-    "map": "65"
+    "map": 65
   }
 }
-

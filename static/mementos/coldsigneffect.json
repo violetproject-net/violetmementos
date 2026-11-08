@@ -5,13 +5,12 @@
   "art": "dawnchorrus",
   "anim": "n",
   "game": "cold",
-  "reqTrigger": "1",
+  "reqtrigger": 1,
   "t1": {
-    "map": "45",
+    "map": 45,
     "switch1": {
-      "id": "267",
+      "id": 267,
       "val": "on"
     }
   }
 }
-

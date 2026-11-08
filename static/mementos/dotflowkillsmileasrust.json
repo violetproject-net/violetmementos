@@ -5,14 +5,13 @@
   "art": "elliotzZz",
   "anim": "n",
   "game": "dotflow",
-  "reqTrigger": "1",
+  "reqtrigger": 1,
   "t1": {
-     "map": "219",
-     "switch1": {
-       "id": "339",
-       "val": "on"
-     },
-     "evinteract": "2"
+    "map": 219,
+    "evinteract": 2,
+    "switch1": {
+      "id": 339,
+      "val": "on"
+    }
   }
 }
-

@@ -1,36 +1,36 @@
 {
-    "name": "Yes, it's him.",
-    "desc": "",
-    "cond": "See Kondo in all places she appears.",
-    "art": "CoolKid95",
-    "anim": "y",
-    "game": "someday",
-    "reqTrigger": "6",
-    "t1": {
-        "map": "53",
-        "evinteract": "53"
-    },
-    "t2": {
-        "map": "31",
-        "x1": "34",
-        "y1": "25",
-        "x2": "54",
-        "y2": "31",
-        "switch1": {
-            "id": 171,
-            "val": "on"
-        }
-    },
-    "t3": {
-        "map": "262"
-    },
-    "t4": {
-        "map": "248"
-    },
-    "t5": {
-        "map": "166"
-    },
-    "t6": {
-        "map": "271"
+  "name": "Yes, it's him.",
+  "desc": "",
+  "cond": "See Kondo in all places she appears.",
+  "art": "CoolKid95",
+  "anim": "y",
+  "game": "someday",
+  "reqtrigger": 6,
+  "t1": {
+    "map": 53,
+    "evinteract": 53
+  },
+  "t2": {
+    "map": 31,
+    "x1": 34,
+    "x2": 54,
+    "y1": 25,
+    "y2": 31,
+    "switch1": {
+      "id": 171,
+      "val": "on"
     }
+  },
+  "t3": {
+    "map": 262
+  },
+  "t4": {
+    "map": 248
+  },
+  "t5": {
+    "map": 166
+  },
+  "t6": {
+    "map": 271
+  }
 }

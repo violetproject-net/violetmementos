@@ -5,14 +5,15 @@
   "art": "elliotzZz",
   "anim": "y",
   "game": "dotflow",
-  "reqTrigger": "2",
+  "reqtrigger": 2,
   "t1": {
-     "map": "115",
-     "x2": "29",
-     "y2": "21"
+    "map": 115,
+    "x1": 0,
+    "x2": 29,
+    "y1": 0,
+    "y2": 21
   },
   "t2": {
-     "map": "190"
+    "map": 190
   }
 }
-
