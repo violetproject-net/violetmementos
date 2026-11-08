@@ -1,0 +1,12 @@
+{
+  "name": "Violet Wings That Tear Through The Heavens",
+  "desc": "Wings meant to break the boundaries of the world.",
+  "cond": "View the flying event at the school balcony",
+  "art": "Kantyo",
+  "anim": "n",
+  "game": "scarynikki",
+  "reqtrigger": 1,
+  "t1": {
+    "map": 66
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "name": "Weathered Mosaic",
+  "desc": "Longing for times before abandonment, times recalled only from the remote past.",
+  "cond": "Enter the Old Apartment Building.",
+  "art": "Sekiranun",
+  "anim": "y",
+  "game": "yumetsushin",
+  "reqtrigger": 1,
+  "t1": {
+    "map": 42
+  },
+  "t2": {
+    "map": 44
+  }
+}

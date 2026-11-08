@@ -1,0 +1,16 @@
+{
+  "name": "Gold Danette Trophy",
+  "desc": "",
+  "cond": "Transform into Golden Danaë using the Shamrock key",
+  "art": "Kantyo",
+  "anim": "n",
+  "game": "amillusion",
+  "reqtrigger": 1,
+  "t1": {
+    "var1": {
+      "id": 119,
+      "op": "==",
+      "val": 22
+    }
+  }
+}

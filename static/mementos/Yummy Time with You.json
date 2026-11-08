@@ -1,0 +1,13 @@
+{
+  "name": "Yummy Time with You",
+  "desc": "It’s Even Yummier with You!",
+  "cond": "Eat crepes with Blanche at Quiet Path",
+  "art": "Kantyo",
+  "anim": "n",
+  "game": "amillusion",
+  "reqtrigger": 1,
+  "t1": {
+    "map": 105,
+    "evinteract": 61
+  }
+}

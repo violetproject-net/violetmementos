@@ -1,0 +1,25 @@
+{
+  "name": "Meow Meow Girls!",
+  "desc": "Purr sweet, claw fierce.",
+  "cond": "Get caught by Slime Catgirl in Hothouse and Red Totem Passage",
+  "art": "Kantyo",
+  "anim": "n",
+  "game": "yumetsushin",
+  "reqtrigger": 1,
+  "t1": {
+    "map": 75,
+    "evinteract": 5
+  },
+  "t2": {
+    "map": 75,
+    "evcollision": 5
+  },
+  "t3": {
+    "map": 73,
+    "evinteract": 79
+  },
+  "t4": {
+    "map": 73,
+    "evcollision": 79
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Blade of the Azure Flame",
+  "desc": "His blade burns with a flame no darkness can extinguish.",
+  "cond": "Complete the Givregel Village chase event",
+  "art": "Kantyo",
+  "anim": "n",
+  "game": "amillusion",
+  "reqtrigger": 1,
+  "t1": {
+    "map": 257,
+    "switch1": {
+      "id": 287,
+      "val": "on"
+    }
+  }
+}

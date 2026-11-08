@@ -1,0 +1,21 @@
+{
+  "name": "Oxopod",
+  "desc": "It's the natural process.",
+  "cond": "See the butterflies in Copper Passage oxodize.",
+  "art": "HenryAutumn",
+  "anim": "y",
+  "game": "loveyou",
+  "reqTrigger": "1",
+  "t1": {
+     "map": "76",
+     "switch1": {
+       "id": "144",
+       "val": "on"
+     },
+     "switch2": {
+       "id": "146",
+       "val": "on"
+     }
+  }
+}
+

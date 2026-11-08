@@ -1,0 +1,16 @@
+{
+  "name": "Crown of Fire",
+  "desc": "Doesn't it hurt to have that flame on your head?",
+  "cond": "Obtain the Candle effect. If you have already unlocked it, return where it can be found in Rosehip Garden.",
+  "art": "flooferz",
+  "anim": "y",
+  "game": "loveyou",
+  "reqtrigger": 1,
+  "t1": {
+    "map": 88,
+    "switch1": {
+      "id": 58,
+      "val": "on"
+    }
+  }
+}

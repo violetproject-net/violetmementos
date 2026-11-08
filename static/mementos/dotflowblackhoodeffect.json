@@ -1,0 +1,17 @@
+{
+  "name": "Are you sure they won't realize it's me",
+  "desc": "\"C'mon, trust me, they won't see you.\"",
+  "cond": "Obtain black hood effect, if you already have it return to Disposal.",
+  "art": "elliotzZz",
+  "anim": "n",
+  "game": "dotflow",
+  "reqTrigger": "1",
+  "t1": {
+     "map": "288",
+     "switch1": {
+       "id": "185",
+       "val": "on"
+     }
+  }
+}
+

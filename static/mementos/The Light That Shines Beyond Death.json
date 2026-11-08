@@ -1,0 +1,17 @@
+{
+  "name": "The Light That Shines Beyond Death",
+  "desc": "When all is lost to death, a candle still whispers hope.",
+  "cond": "Use the Candle effect in Death World",
+  "art": "Kantyo",
+  "anim": "y",
+  "game": "loveyou",
+  "reqtrigger": 1,
+  "t1": {
+    "map": 58,
+    "var1": {
+      "id": 14,
+      "op": "==",
+      "val": 10
+    }
+  }
+}

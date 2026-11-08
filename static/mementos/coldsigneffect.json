@@ -1,0 +1,17 @@
+{
+  "name": "All Signs Point to Aruben",
+  "desc": "Wonder who put this here?",
+  "cond": "Obtain the Sign effect. If you already have it, return to where it can be found in Speak.",
+  "art": "dawnchorrus",
+  "anim": "n",
+  "game": "cold",
+  "reqTrigger": "1",
+  "t1": {
+    "map": "45",
+    "switch1": {
+      "id": "267",
+      "val": "on"
+    }
+  }
+}
+

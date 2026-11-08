@@ -1,0 +1,12 @@
+{
+  "name": "Inventing Myself on Canvas",
+  "desc": "Painting my colors on a blank canvas",
+  "cond": "Visit Pure Creativity",
+  "art": "Kantyo",
+  "anim": "n",
+  "game": "amillusion",
+  "reqtrigger": 1,
+  "t1": {
+    "map": 106
+  }
+}

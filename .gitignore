@@ -1,3 +1,4 @@
-.md
-.txt
+*.md
+*.txt
+*.exe
 mementostemplate.png

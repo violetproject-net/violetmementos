@@ -1,0 +1,21 @@
+{
+  "name": "Angry Vibes from Behind!",
+  "desc": "Calm down, your majesty—please don’t smite me!",
+  "cond": "Visit the Abyss from Chasers Versallies in Amillusion",
+  "art": "Kantyo",
+  "anim": "y",
+  "game": "amillusion",
+  "reqtrigger": 1,
+  "t1": {
+    "map": 161,
+    "x1": 19,
+    "x2": 32,
+    "y1": 44,
+    "y2": 50,
+    "var1": {
+      "id": 33,
+      "op": "==",
+      "val": -1
+    }
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "name": "Mirrors of the Night Sky",
+  "desc": "The night the stars touched the water.",
+  "cond": "See the night sky in Henderson Lake",
+  "art": "Kantyo",
+  "anim": "n",
+  "game": "unevendream",
+  "reqtrigger": 1,
+  "t1": {
+    "map": 528,
+    "var1": {
+      "id": 706,
+      "op": "==",
+      "val": 2
+    }
+  },
+  "t2": {
+    "map": 529,
+    "var1": {
+      "id": 706,
+      "op": "==",
+      "val": 2
+    }
+  },
+  "t3": {
+    "map": 530,
+    "var1": {
+      "id": 706,
+      "op": "==",
+      "val": 2
+    }
+  }
+}

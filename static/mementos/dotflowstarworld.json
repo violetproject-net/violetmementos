@@ -1,0 +1,13 @@
+{
+  "name": "Desired Constellation",
+  "desc": "With a palm full of stars, I throw them like dice..",
+  "cond": "Visit Star World",
+  "art": "visc3ra",
+  "anim": "y",
+  "game": "dotflow",
+  "reqTrigger": "1",
+  "t1": {
+     "map": "135"
+  }
+}
+

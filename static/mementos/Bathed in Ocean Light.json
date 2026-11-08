@@ -1,0 +1,12 @@
+{
+  "name": "Bathed in Ocean Light",
+  "desc": "Within the shimmering blue, I lose my edges.",
+  "cond": "Visit Tropical Sea Ice",
+  "art": "Kantyo",
+  "anim": "n",
+  "game": "amillusion",
+  "reqtrigger": 1,
+  "t1": {
+    "map": 268
+  }
+}

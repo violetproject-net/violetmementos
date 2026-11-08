@@ -1,0 +1,14 @@
+{
+  "name": "Clucking Chick3ra",
+  "desc": "\"Spaghetti code\"? I prefer the term \"scrambled egg code\".",
+  "cond": "View ko3a's chickens in Copper Maze.",
+  "art": "HenryAutumn",
+  "anim": "n",
+  "game": "loveyou",
+  "reqTrigger": "1",
+  "t1": {
+    "map": "19",
+    "evinteract": "3"
+  }
+}
+

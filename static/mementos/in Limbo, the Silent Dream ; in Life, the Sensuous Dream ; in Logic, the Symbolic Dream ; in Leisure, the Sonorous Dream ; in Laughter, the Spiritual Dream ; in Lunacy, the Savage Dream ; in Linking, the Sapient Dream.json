@@ -1,0 +1,18 @@
+{
+  "name": "in Limbo, the Silent Dream ; in Life, the Sensuous Dream ; in Logic, the Symbolic Dream ; in Leisure, the Sonorous Dream ; in Laughter, the Spiritual Dream ; in Lunacy, the Savage Dream ; in Linking, the Sapient Dream",
+  "desc": "So, I'm gonna go into your right ear for a moment, right? And then I tell you some things, and then I'm gonna go to your left. I'm going to get you prepared. This is LSD, an experience, of all experiences. Now, I did not do drugs during the BRP, I just started the game. Now that the oven is wet, we can continue. ",
+  "cond": "Go to all versions of LSD World",
+  "art": "three33",
+  "anim": "y",
+  "game": "someday",
+  "reqtrigger": 3,
+  "t1": {
+    "map": 163
+  },
+  "t2": {
+    "map": 164
+  },
+  "t3": {
+    "map": 165
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "name": "COME TO TEDDY",
+  "desc": " Just a fuzzy Bear listening to her strange tunes.",
+  "cond": "Obtain the MP3 Player Menu Theme. If you already have it, go to where it can be found in Neon Bear Disco.",
+  "art": "dawnchorrus",
+  "anim": "n",
+  "game": "loveyou",
+  "reqTrigger": "1",
+  "t1": {
+     "map": "155",
+     "switch1": {
+       "id": "231",
+       "val": "on"
+     }
+  }
+}
+

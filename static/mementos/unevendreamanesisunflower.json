@@ -1,0 +1,17 @@
+{
+  "name": "A Girl Like a Flower",
+  "desc": "Where Flowers Bloom, She Blooms Too.",
+  "cond": "Interact with Anesi while using the Sunflower effect in Plant Laboratory",
+  "art": "Kantyo",
+  "anim": "n",
+  "reqtrigger": 1,
+  "t1": {
+    "map": 109,
+    "evinteract": 147,
+    "var1": {
+      "id": 4,
+      "op": "==",
+      "val": 31
+    }
+  }
+}

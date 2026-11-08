@@ -1,0 +1,13 @@
+{
+  "name": "Welcome to La Pigne!",
+  "desc": "Enjoy the view and the tasty treats my friend!",
+  "cond": "Order something from the shop in La Pigne",
+  "art": "dawnchorrus",
+  "anim": "n",
+  "game": "amillusion",
+  "reqTrigger": "1",
+  "t1": {
+    "map": "65"
+  }
+}
+

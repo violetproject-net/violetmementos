@@ -1,0 +1,13 @@
+{
+  "name": "Glittering Memoria",
+  "desc": "Beneath a sky of pouring stars, we share our warmth in silence",
+  "cond": "See the event in Black Lake",
+  "art": "sleepysky",
+  "anim": "y",
+  "game": "loveyou",
+  "reqtrigger": 1,
+  "t1": {
+    "map": 89,
+    "evinteract": 1
+  }
+}

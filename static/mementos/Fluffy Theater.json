@@ -1,0 +1,16 @@
+{
+  "name": "Fluffy Theater",
+  "desc": "My Little Friend!",
+  "cond": "Obtain the Hand Puppet effect. If you have already unlocked it, return to Seaside.",
+  "art": "Kantyo",
+  "anim": "y",
+  "game": "yumetsushin",
+  "reqtrigger": 1,
+  "t1": {
+    "map": 12,
+    "switch1": {
+      "id": 109,
+      "val": "on"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Rainbow Bloom",
+  "desc": "Such beautiful colors",
+  "cond": "Obtain the Rainbow system. If you already have it, go to where it can be found in Rainbow Scratch Park",
+  "art": "dawnchorrus",
+  "anim": "n",
+  "game": "deepdreams",
+  "reqtrigger": 1,
+  "t1": {
+    "map": 74,
+    "switch1": {
+      "id": 64,
+      "val": "on"
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Aww! soap cube!",
+  "desc": "",
+  "cond": "Visit Hamigaki-san in Foam World.",
+  "art": "elliotzZz",
+  "anim": "y",
+  "game": "loveyou",
+  "reqTrigger": "1",
+  "t1": {
+    "map": "5",
+    "x1": "82",
+    "y1": "6",
+    "x2": "103",
+    "y2": "11"
+  }
+}
+

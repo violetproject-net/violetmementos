@@ -1,0 +1,12 @@
+{
+  "name": "Memory_Not_Found",
+  "desc": "I just wish I could have one more day with him...",
+  "cond": "View the Corrupted Ward event.",
+  "art": "HenryAutumn & elliotzZz",
+  "anim": "y",
+  "game": "cold",
+  "reqtrigger": 1,
+  "t1": {
+    "map": 103
+  }
+}

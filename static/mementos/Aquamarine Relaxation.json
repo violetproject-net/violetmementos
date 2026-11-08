@@ -1,0 +1,12 @@
+{
+  "name": "Aquamarine Relaxation",
+  "desc": "Have a short reprieve from the Dream World's revelations.",
+  "cond": "Enter the Shower.",
+  "art": "HenryAutumn",
+  "anim": "y",
+  "game": "someday",
+  "reqtrigger": 1,
+  "t1": {
+    "map": 140
+  }
+}

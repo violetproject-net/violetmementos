@@ -1,0 +1,16 @@
+{
+  "name": "Blooming, Fed by Me",
+  "desc": "My ruin is their spring.",
+  "cond": "Obtain the Plant Effect. If you have already obtained it, return to Illusionary Corridors",
+  "art": "Kantyo",
+  "anim": "n",
+  "game": "dotflow",
+  "reqtrigger": 1,
+  "t1": {
+    "map": 192,
+    "switch1": {
+      "id": 174,
+      "val": "on"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Buried Vows",
+  "desc": "Our love is six feet under",
+  "cond": "Obtain the Bride Effect. If you have already obtained it, return to the area where you originally found it",
+  "art": "sleepysky",
+  "anim": "y",
+  "game": "loveyou",
+  "reqtrigger": 1,
+  "t1": {
+    "map": 58,
+    "switch1": {
+      "id": 62,
+      "val": "on"
+    }
+  }
+}

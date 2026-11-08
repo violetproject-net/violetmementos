@@ -1,0 +1,17 @@
+{
+    "name": "Sanpearutsuki.",
+    "desc": "The happiest, most joyous specimen to ever live.",
+    "cond": "Obtain the Pear effect.",
+    "art": "HenryAutumn",
+    "anim": "y",
+    "game": "scarynikki",
+    "reqTrigger": "1",
+    "t1": {
+        "map": "68",
+        "var1": {
+            "id": "19",
+            "op": "=",
+            "val": "15"
+        }
+    }
+}

@@ -1,0 +1,12 @@
+{
+  "name": "Estival Vista",
+  "desc": "The summer breeze feels dreamlike, and the distant clouds are in full bloom.",
+  "cond": "Enter Oceanfront Architecture.",
+  "art": "Sekiranun",
+  "anim": "y",
+  "game": "yumetsushin",
+  "reqtrigger": 1,
+  "t1": {
+    "map": 105
+  }
+}

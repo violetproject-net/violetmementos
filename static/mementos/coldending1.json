@@ -1,0 +1,12 @@
+{
+  "name": "is that good enough",
+  "desc": "",
+  "cond": "See the Ending #1",
+  "art": "Kantyo",
+  "anim": "n",
+  "game": "cold",
+  "reqtrigger": 1,
+  "t1": {
+    "map": 122
+  }
+}

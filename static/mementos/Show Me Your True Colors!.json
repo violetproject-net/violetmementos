@@ -1,0 +1,33 @@
+{
+  "name": "Show Me Your True Colors!",
+  "desc": "",
+  "cond": "See the true form of NaN in the isolated section of Tetris Puzzle accessible from Abstruse Lie",
+  "art": "Kantyo",
+  "anim": "n",
+  "game": "unaccomplished",
+  "reqtrigger": 1,
+  "t1": {
+    "map": 65,
+    "x1": 32,
+    "x2": 42,
+    "y1": 95,
+    "y2": 95,
+    "var1": {
+      "id": 51,
+      "op": "==",
+      "val": 9
+    }
+  },
+  "t2": {
+    "map": 65,
+    "x1": 32,
+    "x2": 42,
+    "y1": 95,
+    "y2": 95,
+    "var1": {
+      "id": 13,
+      "op": "==",
+      "val": 4
+    }
+  }
+}

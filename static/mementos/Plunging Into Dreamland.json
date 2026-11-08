@@ -1,0 +1,20 @@
+{
+  "name": "Plunging Into Dreamland",
+  "desc": "Ready to slip into dreamland!",
+  "cond": "Obtain the Nightcap effect. If you have already unlocked it, return where it can be found in the Sky Path of the Star Field.",
+  "art": "Kantyo",
+  "anim": "n",
+  "game": "unevendream",
+  "reqtrigger": 1,
+  "t1": {
+    "map": 114,
+    "x1": 23,
+    "x2": 27,
+    "y1": 62,
+    "y2": 66,
+    "switch1": {
+      "id": 53,
+      "val": "on"
+    }
+  }
+}

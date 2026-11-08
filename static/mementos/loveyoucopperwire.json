@@ -1,0 +1,13 @@
+{
+  "name": "Copperman",
+  "desc": "Miraculously, your browser did not immediately crumble in his presence.",
+  "cond": "View the dancing wire figure event in Copper Maze.",
+  "art": "HenryAutumn",
+  "anim": "y",
+  "game": "loveyou",
+  "reqTrigger": "1",
+  "t1": {
+    "map": "86"
+  }
+}
+

@@ -1,0 +1,17 @@
+{
+  "name": "A mask of my own face",
+  "desc": "And smile as they grip their own nd try to do the same!",
+  "cond": "Obtain smile effect, if you aready unlocked it return to Smiling world.",
+  "art": "elliotzZz",
+  "anim": "n",
+  "game": "cold",
+  "reqTrigger": "1",
+  "t1": {
+     "map": "12",
+     "switch1": {
+       "id": "262",
+       "val": "on"
+     }
+  }
+}
+
