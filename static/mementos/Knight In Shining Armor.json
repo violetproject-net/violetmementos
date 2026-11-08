@@ -1,0 +1,16 @@
+{
+  "name": "Knight In Shining Armor",
+  "desc": "I'll always protect you.",
+  "cond": "Obtain the Golden Armor delusion. If already obtained, return to where it can be found in Golden Canopy.",
+  "art": "violetsitas",
+  "anim": "y",
+  "game": "dreamgenie",
+  "reqtrigger": 1,
+  "t1": {
+    "map": 108,
+    "switch1": {
+      "id": 20,
+      "val": "off"
+    }
+  }
+}
