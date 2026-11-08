@@ -10,11 +10,10 @@
     "map": 76,
     "switch1": {
       "id": 144,
-      "val": "on"
+        "val": "on"
     },
     "switch2": {
       "id": 146,
       "val": "on"
     }
-  },
-}
+  }
