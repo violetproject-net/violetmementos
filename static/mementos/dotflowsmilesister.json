@@ -1,0 +1,12 @@
+{
+  "name": "You're a sick girl, but i'll see you again.",
+  "desc": "Now you talking about some potassium onion, boy what?",
+  "cond": " Drive smile into protecting his sister",
+  "art": "elliotzZz",
+  "anim": "y",
+  "game": "dotflow",
+  "reqtrigger": 1,
+  "t1": {
+    "map": 214
+  }
+}

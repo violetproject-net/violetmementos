@@ -1,0 +1,12 @@
+{
+  "name": "Neon Blacklight Pool Party",
+  "desc": "PARTY LIKE IT'S 2008!!! RAAAWWWWRRRR!!!!!!!",
+  "cond": "Visit Bioluminescent Ocean.",
+  "art": "HenryAutumn",
+  "anim": "y",
+  "game": "loveyou",
+  "reqtrigger": 1,
+  "t1": {
+    "map": 8
+  }
+}
