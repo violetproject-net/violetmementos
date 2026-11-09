@@ -1,0 +1,16 @@
+{
+  "name": "Prolonged eye contact.",
+  "desc": "Sabitsuki just wants to make you feel comfortable!",
+  "cond": "Obtain the mono eye effect, if you already have it return to Dysmorphic world",
+  "art": "elliotzZz",
+  "anim": "y",
+  "game": "dotflow",
+  "reqtrigger": 1,
+  "t1": {
+    "map": 12,
+    "switch1": {
+      "id": 4,
+      "val": "on"
+    }
+  }
+}
