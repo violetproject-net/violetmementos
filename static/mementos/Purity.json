@@ -1,0 +1,12 @@
+{
+  "name": "Purity",
+  "desc": "Flesh wraps around the hat, neatly folded upon a bloody pedestal. It's been waiting for you.",
+  "cond": "Visit the Throne of Entrails.",
+  "art": "flooferz",
+  "anim": "n",
+  "game": "yumetsushin",
+  "reqtrigger": 1,
+  "t1": {
+    "map": 97
+  }
+}
